@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mdsaid-chf
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning programming 
+- 🌱 I’m currently learning python
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
